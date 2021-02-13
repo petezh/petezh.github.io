@@ -58,7 +58,7 @@ I'm back. I have ten further thoughts on debate. Sludge through for some free ca
 
    > If I know that h is true, I know that any evidence against h is evidence against something that is true; I know that such evidence is misleading. But I should disregard evidence that I know is misleading. So, once I know that h is true, I am in a position to disregard any future evidence that seems to tell against h. (1973, 148)
 
-   See the connection? The aff should argue that since the judge already knows the 1AC is true, anything that the 1NC says is misleading and should be ignored. Powerful. Here's my [cut](Dogmatism.docx).
+   See the connection? The aff should argue that since the judge already knows the 1AC is true, anything that the 1NC says is misleading and should be ignored. Powerful. Here's my [cut](/resources/Dogmatism.docx).
 
 10. **Curry's paradox is wrong.** It's one of the most popular justifications for trivialism and it goes something like this:
 

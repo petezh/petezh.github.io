@@ -10,7 +10,7 @@ permalink: "rabbit-holes-2"
 
 Yes. Episode two of *Rabbit Holes* is out.
 
-Last week was rough. I was in debt for half a month of homework, faced a ramp-up of extracurriculars, and  spent the weekend at a both competition and a god-awful debate tournament ([this](http://localhost:4000/debate-thoughts-2) was how I spent my time). Amidst that stress, I believed that my birthday (last Wednesday, so it's not too late to send belated wishes!) would offer 24 hours of serenity. That dream was crushed when I had my music taste ridiculed for being too "simp-y."
+Last week was rough. I was in debt for half a month of homework, faced a ramp-up of extracurriculars, and  spent the weekend at both a competition and a god-awful debate tournament ([this](http://localhost:4000/debate-thoughts-2) was how I spent my time). Amidst that stress, I believed that my birthday (last Wednesday, so it's not too late to send belated wishes!) would offer 24 hours of serenity. That dream was crushed when I had my music taste ridiculed for being too "simp-y."
 
 1net, if you are reading this: that is a libelous, baseless characterization. In this post, I shall absolve myself of this accusation. The following is a representative sampling of my favorite music artists (n=7), many of which are most certainly not "simp-y." If you are 1net, I request a formal retraction and an apology.[^1] If you are not 1net, I hope that you vibe with some of them.
 

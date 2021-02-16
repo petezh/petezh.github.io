@@ -33,7 +33,7 @@ But these data faced some important limitations. First, state-level data is high
 
 ### Dataset
 
-I decided to build my own, county-level dataset. To test the strength of the partisanship-COVID relationship, I tried to control for [significant predictors](https://www.medrxiv.org/content/medrxiv/early/2020/04/22/2020.04.17.20069708.full.pdf[) of COVID cases, such as race, density, and geographic location. To test potential mechanisms for the relationship, I also collected data on mask use and mobility. I compiled,[^2] with help from helpful aggregators, the following data sources:
+I decided to build my own, county-level dataset. To test the strength of the partisanship-COVID relationship, I tried to control for [significant predictors](https://www.medrxiv.org/content/medrxiv/early/2020/04/22/2020.04.17.20069708.full.pdf[) of COVID cases, such as race, density, and geographic location. To test potential mechanisms for the relationship, I also collected data on mask use and mobility. I compiled,[^2] with assistance from other data aggregators, the following data sources:
 
 - Population density from [2010 U.S. Census](https://github.com/camillol/cs424p3/blob/master/data/Population-Density%20By%20County.csv).
 

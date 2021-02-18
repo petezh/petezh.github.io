@@ -18,7 +18,7 @@ I'm back. I have ten further thoughts on debate. Sludge through for some free ca
 
    As a example of what I mean...
 
-2. **Performativity—excuse me?** Every time I open a "[Philosopher besides Kant] AC" and find a reason-to-prefer tagged "Performativity," my temples tense up. Repeated observation studies suggest that the ensuing neurobiological mechanisms bias me towards depressing the affirmative's speaker points.
+2. **Performativity—excuse me?** Every time I open a "[Philosopher besides Kant] AC" and find a reason-to-prefer tagged "Performativity," my temples tense up. Repeated observational studies suggest that the ensuing neurobiological mechanisms bias me towards depressing the affirmative's speaker points.
 
    A small sampling of what I mean from a cursory search of this year's wiki[^1]:
 

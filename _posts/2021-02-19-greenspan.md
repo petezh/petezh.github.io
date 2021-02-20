@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Age of Turbulence"
-date:   2021-01-19
+date:   2021-02-19
 categories: books
 permalink: "greenspan"
 ---
@@ -10,7 +10,7 @@ permalink: "greenspan"
 
 Alan Greenspan's *The Age of Turbulence* is a three part book. First, he recounts his intellectual journey as a consultant, advisor, and chairman of the Fed. Then, Greenspan lays out a framework for understanding the global economy. The book closes with speculations on global trends. Forewarning: I did not get to the third part.
 
-[![](/resources/ageofturbulence.jpg)](https://www.amazon.com/Age-Turbulence-Adventures-New-World/dp/0143114166)
+[![](/resources/greenspan.jpg)](https://www.amazon.com/Age-Turbulence-Adventures-New-World/dp/0143114166)
 
 I took away the following key ideas:
 

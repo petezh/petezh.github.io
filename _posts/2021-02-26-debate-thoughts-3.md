@@ -22,7 +22,7 @@ At last, the regular debate season is winding down. As I was giving audience to 
 
 3. **Big debate data.** Project ideas for CS nerds who want to do a thing or two with debate data:
 
-   - *Paradigms*. Scrape judge paradigms by iterating through judge search results (I implemented this, reach out) and build a corpus of judge paradigms. Classify judges by conducting topic modeling or doc2vec on the paradigms. Maybe then correlate those to sit-rates or geographic locale.
+   - *Paradigms*. Scrape judge paradigms by iterating through judge search results (I implemented this, reach out) and build a corpus of judge paradigms. Classify judges by conducting topic modeling or doc2vec on the paradigms. Maybe then correlate those to sit-rates or disaggregate by location.
    - *Argumentative ~~spectrum~~ vector space.* Scrape the wiki (some tools are [here](https://github.com/petezh/Disclosure)) for cites and conduct doc2vec on the tags. Then, build profiles of debaters based on their argument style. Who am I most similar to?
    - *Predictive analytics.* We have it for sports, why not debate (no, debate is not a sport)? Take past entries and records and the entry list of a tournament and give percentage chances of winning the tournament.
    - *Argument diagrams*. Can we map out topics? Like, visualize the circumvention debate? Or the "crisis instability" debate? I think we could with a relational database, and I think we could even expand it to include cards and wiki pages. Could be a breakthrough for open source.

@@ -78,4 +78,6 @@ I'm back. I have ten further thoughts on debate. Sludge through for some free ca
 
     I hope one day to have serial epiphanies like Adam. Great stuff!
 
+[Here](https://peterzhang.info/debate-thoughts-1) are my last set of thoughts, in case you're interested.
+
 [^1]: These excerpts were sourced from a [Wittgenstein AC](https://hsld.debatecoaches.org/NSU%20University%20School/Frazier%20Aff), [Polls AC](https://hsld.debatecoaches.org/American%20Heritage%20Plantation/Randazzo%20Aff), [Hobbes NC](https://hsld.debatecoaches.org/Bridgewater%20Raritan/Natchukuri%20Neg), [Butler AC](https://hsld.debatecoaches.org/Lexington/Kam%20Aff),and [Agonism AC](https://hsld.debatecoaches.org/Dulles/Yu%20Aff), respectively.

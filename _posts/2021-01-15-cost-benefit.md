@@ -10,6 +10,10 @@ permalink: "cost-benefit-revolution"
 
 Don't let the dry reviews on the back cover deter you (Forbes says: "Clear, well-argued"). Cass Sunstein's *The Cost-Benefit Revolution* is an awesome read for anyone interested in public policy or economics. He walks through the principles of cost-benefit analysis and considers a variety of challenges and case studies. The book won't keep you at the edge of your seat (unless, you're like, really into this), but Sunstein's arguments are well-written and organized—a pleasure to consume.
 
+**Utility: ★★★✰✰** (3/5) 
+
+**Writing: ★★★✰✰** (3/5)
+
 [![](/resources/costbenefitrev.jpg)](https://www.amazon.com/Cost-Benefit-Revolution-MIT-Press/dp/0262038145)
 
 I took away five key ideas:

@@ -10,6 +10,10 @@ permalink: "influence"
 
 Robert Cialdini's *Influence* is a classic book about marketing and psychology. Cialdini outlines six non-obvious "weapons of influence." For each, he outlines when it's used, why it works, and how to protect yourself.
 
+**Utility: ★★★★★** (5/5)
+
+**Writing: ★★★★★** (5/5)
+
 [![](/resources/influence.jpg)](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)
 
 The six "weapons of influence", explained in more details below, are the following:

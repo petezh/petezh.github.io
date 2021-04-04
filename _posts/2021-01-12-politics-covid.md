@@ -5,6 +5,8 @@ date:   2021-01-12
 categories: projects
 permalink: "politics-covid"
 ---
+An abbreviated version of this article is published on the Berkeley Economic Review as *[Partisanship and COVID-19 Response*](https://econreview.berkeley.edu/partisanship-and-covid-19-response/).
+
 ### Introduction
 
 In November of last year, I was assigned a cool final project in statistics class: take a COVID-19 dataset and dig around for anything interesting. The dataset[^1] included state-level COVID-19 cases, deaths, and a handful of related variables (like ICU availability, lockdown status, age). I snuck in an extra variable: the results of the 2020 election.

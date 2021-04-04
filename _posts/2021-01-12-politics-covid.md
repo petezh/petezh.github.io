@@ -5,7 +5,7 @@ date:   2021-01-12
 categories: projects
 permalink: "politics-covid"
 ---
-An abbreviated version of this article is published on the Berkeley Economic Review as *[Partisanship and COVID-19 Response*](https://econreview.berkeley.edu/partisanship-and-covid-19-response/).
+An abbreviated version of this article is published on the Berkeley Economic Review as [*Partisanship and COVID-19 Response*](https://econreview.berkeley.edu/partisanship-and-covid-19-response/).
 
 ### Introduction
 

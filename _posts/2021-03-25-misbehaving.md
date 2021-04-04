@@ -8,6 +8,8 @@ permalink: "misbehaving"
 
 ### Review
 
+<img align="right" width="30%" src="/resources/misbehaving.jpg">
+
 Richard Thaler's legendary *Misbehaving* is personal biography, academic journey, and field survey wrapped into one. He recounts his struggles as a fledging researcher, his partnerships with other great minds, and their projects throughout the years. It's an insider's view of world of behavioral economics that you can't find anywhere else.
 
 Here's the [paperback](https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X) and [audiobook](https://www.audible.com/pd/Misbehaving-Audiobook/B00VQTE4OC).
@@ -15,8 +17,6 @@ Here's the [paperback](https://www.amazon.com/Misbehaving-Behavioral-Economics-R
 **Utility: ★★★★★** (5/5)
 
 **Writing: ★★★★★** (5/5)
-
-![](/resources/misbehaving.jpg)
 
 Thaler has a innate playfulness and sense of humor that animates the book. Every chapter (of the book and his career) is driven by a genuine curiosity and tendency to misbehave. I love his writing and his content. Compared to Kahneman's *[Thinking Fast and Slow](https://peterzhang.info/decision-making)*, Thaler's book reveals much more about the actual making of economics research and tends to use specific experiments and examples as focal points for ideas.
 

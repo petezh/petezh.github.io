@@ -8,15 +8,15 @@ permalink: "deep-survival"
 
 ### Review
 
+<img align="right" width="30%" src="/resources/deepsurvival.jpg">
+
 *Deep Survival* by Laurence Gonzalez explores "Who Lives, Who Dies, and Why" with science and storytelling. While most of the book is in the context of the wilderness, its lessons are directly applicable to the stresses of everyday life, whether at home, in the gym, or at the office.
 
 Here's [paperback](https://www.amazon.com/Deep-Survival-Who-Lives-Dies/dp/0393326152), a [PDF](/resources/deepsurvival.pdf), and the [audiobook](https://www.audible.com/pd/Deep-Survival-Audiobook/B002V1OBRE).
 
 **Utility: ★★★★✰** (4/5)
 
-**Writing: ★★★★★** (5/5)
-
-[![](/resources/deepsurvival.jpg)]()
+**Writing: ★★★★★** (5/5))
 
 Gonzalez is a great narrator. Each one of the stories is told with great suspense, keeping me mentally on the edge of my seat, even as I physically doze off on the couch. The entire book traces a broader narrative about the author's father and his surreal struggle to survive an air plane crash during World War II. Sometimes, the stories crowd out the actual content, which is annoying for a textbook-lover like myself. But if you're not a fan of "facts, then narration" (most of my other reads), then this is definitely a book for you.
 
@@ -24,7 +24,7 @@ Gonzalez is a great narrator. Each one of the stories is told with great suspens
 
 I listened to the audiobook, so I didn't take line-by-line notes. Instead, here are some words of advice from the last chapter of the book which I found insightful.
 
-**Staying out of Trouble**
+#### Staying out of Trouble
 
 Better to prevent a disaster than to get out of one. Here are six simple R's to keep yourself safe:
 
@@ -35,7 +35,7 @@ Better to prevent a disaster than to get out of one. Here are six simple R's to 
 5. *Reevaluate* the situation. When a mission is doomed, there's no shame in quitting, and there's certainly much less regret.
 6. *Rationalize*. Keep control over your emotions, and maintain a positive attitude. Self-pity won't get you anywhere.
 
-**Getting Out of Trouble**
+#### Getting Out of Trouble
 
 Once you're in a survival situation, model these 12 behaviors from real survivors:
 

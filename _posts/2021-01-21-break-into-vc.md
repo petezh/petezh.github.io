@@ -3,18 +3,20 @@ layout: category-post
 title:  "#BreakIntoVC"
 date:   2021-01-21
 categories: books
-permalink: "venture-capital"
+permalink: "break-into-VC"
 ---
 
-### Introduction
+### Review
+
+<img align="right" width="30%" src="/resources/breakintovc.jpg">
 
 I just finished Bradley Miles' *#BreakIntoVC*. It's a short, clearly-written book that boils down the essentials of venture capital. The book is sometimes a little disorganized and often moves a little too fast. Nonetheless, provides a great overview the subject for anyone willing to read carefully.
+
+Here's the [paperback](https://www.amazon.com/BreakIntoVC-Investor-Entrepreneur-Professional-Guidebook/dp/1544934343) and [audiobook](https://www.audible.com/pd/BreakInto-VC-Audiobook/B074B2MQ1B).
 
 **Utility: ★★✰✰✰** (2/5) 
 
 **Writing: ★★★✰✰** (3/5)
-
-[![](/resources/breakintovc.jpg)](https://www.amazon.com/BreakIntoVC-Investor-Entrepreneur-Professional-Guidebook/dp/1544934343)
 
 Half of the book is devoted to networking, recruiting, and further resources. I was only interested in learning more about venture capital, so those parts are omitted from my notes.
 

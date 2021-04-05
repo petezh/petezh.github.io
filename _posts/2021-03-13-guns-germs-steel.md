@@ -12,17 +12,21 @@ permalink: "guns-germs-steel"
 >
 > Edit: definitely ret-conning. My earlier reviews are cringe and unhelpful.
 
+<img align="right" width="30%" src="/resources/gunsgermssteel.jpg">
+
 Jared Diamond's *Guns, Germs, and Steel* is an interdisciplinary deep dive into the trajectories of human societies. He explores thousands of years of history using an variety of methodologies to answer a basic question: why are some societies more successful than others? The answer, he argues, is geographical determinism.
+
+Here's the [audiobook](https://www.audible.com/pd/Guns-Germs-and-Steel-Audiobook/B004G7VN04) and [paperback](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552).
 
 **Utility: ★★★★✰** (4/5)
 
 **Writing: ★★★★**✰ (4/5)
 
-[![](/resources/gunsgermssteel.jpg)](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies-ebook/dp/B06X1CT33R)
-
 Diamond's writing style is precise and entertaining. He takes the reader along an intellectual journey, considering and evaluating historical hypotheses. The book is replete with helpful diagrams and pictures, putting a face on the societies discussed in the text. At some points, the examples become a little repetitive and boring, but if you're genuinely interested in history, the breadth will be a plus.
 
 Personally, I tend to find history dry. This book has done much to change my mind. I find the content to be a useful way to understand the state of societies today. It also thoroughly discredits "great men history" and the thesis of white supremacy.
+
+### Notes
 
 As a historical survey, taking detailed notes would be impractical. So, here are five main points of the book:
 

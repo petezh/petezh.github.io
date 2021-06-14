@@ -8,7 +8,7 @@ permalink: "universality-idpol"
 
 ### Review
 
-<img align="right" width="30%" src="/resources/universality.jpg">
+<img align="right" width="30%" src="/resources/books/universality.jpg">
 
 Todd McGowan's *Universality and Identity Politics* has advice for the Left. Today's theorists are afraid of politics based on universality - it's seen as homogenizing and emblematic of Nazism and Stalinism. Drawing on Lacanian thought, McGowan rereads universal values such as freedom and equality as emerging from our shared experience of absence. He identifies this unattainable universality with the Left and, conversely, shows how particularism and identity politics are the strategies of the Right. The book concludes with a call for collective struggle.
 

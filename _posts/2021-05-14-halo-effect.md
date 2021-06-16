@@ -10,7 +10,7 @@ permalink: "halo-effect"
 
 <img align="right" width="30%" src="/resources/haloeffect.jpg">
 
-*The Ha*lo Effect* is Phil Rosenzweig's response to decades of vague, ideological management books. He systemically sifts through case studies and past books, showing how they fall pray to various misconceptions. He closes with a sober guide to business success.
+*The Halo Effect* is Phil Rosenzweig's response to decades of vague, ideological management books. He systemically sifts through case studies and past books, showing how they fall pray to various misconceptions. He closes with a sober guide to business success.
 
 Here's the [paperback](https://www.amazon.com/Halo-Effect-Business-Delusions-Managers/dp/1476784035) and [audiobook](https://www.audible.com/pd/The-Halo-Effect-Audiobook/B002UZX5AA).
 

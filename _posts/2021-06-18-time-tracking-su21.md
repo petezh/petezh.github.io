@@ -43,7 +43,7 @@ Some notable changes since last time:
 - For completeness, I retroactively recategorized "miscellaneous" and "personal" work as blogging and renamed "professional" to "recruiting."
 - In February, I started tracking logistics (errands or chores) and in June, I created a new category for learning (productive media, like podcasts). I grouped these with planning and media, respectively.
 
-Here are the updated summary stats.
+Here are the updated summary stats. Each of these categories is roughly normal.
 
 <table>
  <thead>
@@ -359,8 +359,7 @@ Here are the updated summary stats.
   </tr>
 </tbody>
 </table>
-
-Each of these categories is *roughly* normal, with obvious sections for smaller categories like meditation. One thing that caught my eye right away: shockingly, both my mean and median sleep time are exactly 8 hours. But, from the 25th and 75th percentiles, you can tell that the standard deviation is well over 1 hour. That's why I don't *feel* like I'm well-rested.[^2]
+One thing that caught my eye right away: shockingly, both my mean and median sleep time are exactly 8 hours. But, from the 25th and 75th percentiles, you can tell that the standard deviation is well over 1 hour. That's why I don't *feel* like I'm well-rested.[^2]
 
 #### Work, Sleep, Social
 

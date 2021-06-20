@@ -24,7 +24,7 @@ Now that I'm back and settled in, I wanted to do a little reflection. Without an
 
 Before we dive in, I want to share my new time tracking [template](https://docs.google.com/spreadsheets/d/1zPQYBP4TlEPVal0TjeBG9n1Vgm_g9gZACGXvSy_knNA/edit?usp=sharing). Press "File" and "Make a copy" to start your own tracker.
 
-![])(resources/tt2/template.png)
+![](resources/tt2/template.png)
 
 There's a few things I added:
 
